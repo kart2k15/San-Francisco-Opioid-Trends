@@ -70,11 +70,9 @@ Our data is collected from the San Francisco police department’s database. It 
 
 ![Picture-8](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/results/Picture8.png)
 
-## Team:
+## Authors:
 
 * [Kartikeya Shukla](https://github.com/kart2k15)
-* [Chinmay Wyawahare](https://github.com/gandalf1819)
-* [Hao Shu](https://github.com/hs3812)
 
 ## References:
 
